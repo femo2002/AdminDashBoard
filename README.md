@@ -1,3 +1,3 @@
 # Admin Dashboard
 
-The Odin's project
+Created with the help of the The Odin's Project
